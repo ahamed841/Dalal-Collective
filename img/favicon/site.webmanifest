@@ -1,0 +1,23 @@
+{
+  "name": "Dalal Collective - Bespoke Gemstone & Jewelry by Dalal Ahmed",
+  "short_name": "Dalal Collective",
+  "description": "Dalal Collective by gemologist Dalal Ahmed offers bespoke gemstone sourcing, custom jewelry design, and expert gem consultations. Experience timeless elegance through ethical craftsmanship and precision-cut beauty.",
+  "icons": [
+    {
+      "src": "/img/favicon/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/favicon/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#efefef",
+  "background_color": "#efefef",
+  "display": "standalone",
+  "start_url": "/",
+  "lang": "en",
+  "orientation": "portrait"
+}
